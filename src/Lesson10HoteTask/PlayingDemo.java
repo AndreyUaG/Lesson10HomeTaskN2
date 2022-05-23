@@ -1,5 +1,8 @@
 package Lesson10HoteTask;
 
+
+
+//коммент третий
 public class PlayingDemo {
     public static void main(String[] args) {
         Instrument gitara1 = new Gitara("5");
