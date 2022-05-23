@@ -13,4 +13,5 @@ public class PlayingDemo {
             instrument.play();
         }
     }
+    //проба 4го коммента
 }
