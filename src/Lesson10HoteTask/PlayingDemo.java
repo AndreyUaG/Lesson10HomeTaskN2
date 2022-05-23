@@ -1,5 +1,7 @@
 package Lesson10HoteTask;
-// второй коммент девелоп ветки2
+
+//коммент третий + второй коммент девелоп ветки2 конфликт решен
+
 public class PlayingDemo {
     public static void main(String[] args) {
         Instrument gitara1 = new Gitara("5");
